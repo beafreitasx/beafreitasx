@@ -28,7 +28,9 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://github.com/beafreitasx/beafreitasx/blob/master/phy.jpg" />
 
-## Projetos
+---
+
+### *Projetos*
 - R para Data Science -> https://github.com/beafreitasx/R-para-data-science
 
 ---
