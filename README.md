@@ -10,12 +10,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/beafreitasx/beafreitasx/blob/master/tenor%20(2).gif" width="350px" />
 
-
-- 💻 Aprendiz de Data Science;
-- 🌱 Apaixonada por Biologia;
-- 😄 Conhecendo Desenvolvimento de Sistemas e Machine Learning;                                          
-- 🎓 Graduanda em Ciência, Tecnologia, e Inovação (UFBA);  
-- 📚 R & Python.
+<p align = "center">
+💻 Aprendiz de Data Science, Apaixonada por Biologia, Conhecendo Desenvolvimento de Sistemas e Machine Learning, Graduanda em Ciência, Tecnologia, e Inovação (UFBA), R & Python. 📚</p>
 
 ### *Um pouco do que uso:*
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
