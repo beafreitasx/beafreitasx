@@ -1,8 +1,7 @@
                                              ##Beatriz Freitas## 👋
                                      ------------------------------------
                                              
-Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois!
-
+             Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois!
 - 💻 Aprendiz de Data Science;
 - 🌱 Apaixonada por Biologia;
 - 😄 Adoro ensinar e ajudar sempre que posso;
