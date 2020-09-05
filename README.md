@@ -5,21 +5,16 @@
 
 <p align = "center"> Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois. </p>
 
-<p align = "center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src = "https://img.shields.io/badge/License-MIT-blue.svg" alt = "Licença MIT">
-  </a>
-</p>
-
-<hr />
++<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=beafreitasx" alt="beafreitasx" /> </p>
 
 <img align="right" alt="GIF" src="https://github.com/beafreitasx/beafreitasx/blob/master/tenor%20(1).gif" width="350px" />
 
 
 - 💻 Aprendiz de Data Science;
 - 🌱 Apaixonada por Biologia;
-- 😄 Adoro ensinar e ajudar sempre que posso;                                          
-- 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);  
+- 😄 Conhecendo Desenvolvimento de Sistemas e Machine Learning;                                          
+- 🎓 Graduanda em Ciência, Tecnologia, e Inovação (UFBA);  
 - 📚 R & Python.
 
 ### *Um pouco do que uso:*
@@ -29,13 +24,29 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<img align="left" alt="Terminal" width="26px" src="https://github.com/beafreitasx/beafreitasx/blob/master/orange.jpg" />
+
+<img align="left" alt="Terminal" width="26px" src="https://github.com/beafreitasx/beafreitasx/blob/master/phy.jpg" />
+
+
 ## Projetos
 
 
 ## Licença
 
 
+### *Conecte-se comigo:*
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://instagram.com/beatriz.science
+[linkedin]: linkedin.com/in/beatriz-de-j-freitas-9770a3132
+
+---
+### <p align="center">*Venha sempre!*</p>
 
 
 
