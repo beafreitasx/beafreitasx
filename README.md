@@ -6,7 +6,9 @@
 - 🌱 Apaixonada por Biologia;
 - 😄 Adoro ensinar e ajudar sempre que posso;
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
-- 📚 R & Python;
--->
-<!--
+- 📚 R & Pytho.
+
+
+
+
 
