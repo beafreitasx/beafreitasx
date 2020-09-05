@@ -1,7 +1,6 @@
                                              ##Beatriz Freitas## 👋
-
-<!--
-
+                                     ------------------------------------
+                                             
 Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois!
 
 - 💻 Aprendiz de Data Science;
@@ -10,3 +9,5 @@ Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os d
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
 - 📚 R & Python;
 -->
+<!--
+
