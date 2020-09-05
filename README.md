@@ -1,4 +1,4 @@
-# Beatriz Freitas #                                             
+# ♥ <i> Beatriz Freitas <i> ♥ #                                             
 ## Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois ##                              
              
 - 💻 Aprendiz de Data Science;
