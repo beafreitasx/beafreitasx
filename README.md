@@ -1,5 +1,5 @@
 # ♥ <i> Beatriz Freitas <i> ♥ #                                             
-## <font color="yellow">Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois</font>. ##                              
+## Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois. ##                              
              
 - 💻 Aprendiz de Data Science;
 - 🌱 Apaixonada por Biologia;
@@ -8,6 +8,6 @@
 - 📚 R & Python.
 
 
-
+![]()
 
 
