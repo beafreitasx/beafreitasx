@@ -1,7 +1,7 @@
-##Beatriz Freitas## 👋
+                                                                                  ##Beatriz Freitas## 👋
 
 <!--
-**beafreitasx/beafreitasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonada por Ciências Biológicas e programação, ansiosa para misturar os dois!
 
 Here are some ideas to get you started:
 
