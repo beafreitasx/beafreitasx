@@ -17,7 +17,7 @@
 - 🎓 Graduanda em Ciência, Tecnologia, e Inovação (UFBA);  
 - 📚 R & Python.
 
-### *Onde me encontrar:*
+### *Um pouco do que uso:*
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
@@ -28,13 +28,14 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://github.com/beafreitasx/beafreitasx/blob/master/phy.jpg" />
 
-
-
 ## Projetos
+- R para Data Science -> https://github.com/beafreitasx/R-para-data-science
 
+---
 
-## Licença
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=beafreitasx&show_icons=true" alt="beafreitasx"/>
+</p>
 
 ### *Conecte-se comigo:*
 
