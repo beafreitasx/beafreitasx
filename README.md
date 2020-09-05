@@ -19,9 +19,12 @@
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);  
 - 📚 R & Python.
 
+<p align = "center">
+     <a <img src = "https://github.com/beafreitasx/beafreitasx/blob/master/tenor%20(1).gif" alt = "Licença MIT">
+</a>
+</p>
 
 
-![tenor(1)](https://github.com/beafreitasx/beafreitasx/blob/master/tenor%20(1).gif)
 
 ## Projetos
 
