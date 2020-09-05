@@ -8,7 +8,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=beafreitasx" alt="beafreitasx" /> </p>
 
-<img align="right" alt="GIF" src="https://github.com/beafreitasx/beafreitasx/blob/master/tenor%20(1).gif" width="350px" />
+<img align="right" alt="GIF" src="https://github.com/beafreitasx/beafreitasx/blob/master/tenor%20(2).gif" width="350px" />
 
 
 - 💻 Aprendiz de Data Science;
