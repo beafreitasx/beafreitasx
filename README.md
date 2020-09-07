@@ -29,7 +29,7 @@ Graduanda em Ciência, Tecnologia, e Inovação (UFBA), aprendiz de Data Science
 
 ---
 
-### *Projetos*
+### *Projetos*:
 - R para Data Science -> https://github.com/beafreitasx/R-para-data-science
 
 ---
@@ -38,7 +38,7 @@ Graduanda em Ciência, Tecnologia, e Inovação (UFBA), aprendiz de Data Science
 <img src="https://github-readme-stats.vercel.app/api?username=beafreitasx&show_icons=true" alt="beafreitasx"/>
 </p>
 
-### *Conecte-se comigo:*
+### *Onde me achar:*
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
