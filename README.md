@@ -44,10 +44,12 @@ Graduanda em Ciência, Tecnologia, e Inovação (UFBA), aprendiz de Data Science
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 [instagram]: https://instagram.com/beatriz.science
-[linkedin]: linkedin.com/in/beatriz-de-j-freitas-9770a3132
-
+[linkedin]: https://linkedin.com/in/beatriz-de-j-freitas-9770a3132
+[twitter] : https://twitter.com/beafreitas_html
 ---
 ### <p align="center">*Venha sempre!*</p>
 
