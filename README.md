@@ -49,7 +49,7 @@ Graduanda em Ciência, Tecnologia, e Inovação (UFBA), aprendiz de Data Science
 
 [instagram]: https://instagram.com/beatriz.science
 [linkedin]: https://linkedin.com/in/beatriz-de-j-freitas-9770a3132
-[twitter] : https://twitter.com/beafreitas_html
+[twitter]: https://twitter.com/beafreitas_html
 ---
 ### <p align="center">*Venha sempre!*</p>
 
